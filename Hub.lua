@@ -19,6 +19,7 @@ local supportedPlaces = {
     [101354156600579] = "https://raw.githubusercontent.com/elton12314/Steal-a-Character/main/Steal-a-Character.lua",
     [3823781113] = "https://raw.githubusercontent.com/elton12314/Saber-simulator/refs/heads/main/saber-simulator.lua",
     [101949297449238] = "https://raw.githubusercontent.com/elton12314/Build-An-Island/main/Build-An-Island.lua",
+    [10449761463] = "https://raw.githubusercontent.com/elton12314/Strongest/main/S.lua"
 }
 
 if supportedPlaces[game.PlaceId] then
